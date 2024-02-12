@@ -1,5 +1,6 @@
 const Example = () => {
-  // 練習用
+    let str: string
+    let obj = {name: "Taro", age: 10}
 };
 
 export default Example;
